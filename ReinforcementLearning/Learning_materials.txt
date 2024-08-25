@@ -1,0 +1,5 @@
+--------------------------------------------------
+Python implementation of Reinforecement Learning: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+It provides .py files to implement simple projects. It uses basic python library like numpy
+
+--------------------------------------------------

@@ -1,0 +1,16 @@
+*.Rhistory
+*.Rmd
+*.RData
+*.pdf
+*.png
+*.jpg
+*.csv
+*.xlsx
+*.py
+.idea
+
+/Github_upload_files
+/Visualization
+/Research_workspace
+/NLPLearning
+imgs
